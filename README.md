@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Yubii72's GitHub stats](https://github-stats-extended.vercel.app/api/?username=yubii72&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yubii72%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+[![Yubii72's GitHub stats](https://github-stats-extended.vercel.app/api?username=yubii72&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=yubii72)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **Yubii72/yubii72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

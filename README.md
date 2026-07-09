@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Yubii72's GitHub stats](https://github-stats-extended.vercel.app/api?username=yubii72)](https://github.com/stats-organization/github-stats-extended) 
 <!--
 **Yubii72/yubii72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -29,7 +29,7 @@
 
 ---
 
-## Tech Stack
+## Technologies I Use
 
 ### Frontend Development
 

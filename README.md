@@ -21,7 +21,7 @@
 # Kurt Xander Imperial
 
 ### Currently:
-- Studying Information Technology at Pamantasan ng Cabuyao
+- Studying Information Technology at University of Cabuyao
 - Learning and improving my programming and technical skills
 - Pursuing certifications in IT and cybersecurity
 - Expanding my knowledge through hands-on projects and experimentation

@@ -23,7 +23,7 @@
 ### Currently:
 - Studying Information Technology at University of Cabuyao
 - Learning and improving my programming and technical skills
-- Pursuing certifications in IT and cybersecurity
+- Pursuing certifications in Web Development and Cybersecurity
 - Expanding my knowledge through hands-on projects and experimentation
 
 ---

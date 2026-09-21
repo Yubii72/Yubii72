@@ -23,8 +23,7 @@
 - Pursuing certifications in web development and cybersecurity
 - Expanding my knowledge through hands-on projects and experimentation
 
-### GitHub Stats:
-  <img src="https://streak-stats.demolab.com/?user=Yubii72&theme=dark&hide_border=false&background=0D1117" width="400">
+### GitHub Stat:
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yubii72&theme=dark&hide_border=false&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact">
 
 

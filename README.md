@@ -24,7 +24,7 @@
 - Expanding my knowledge through hands-on projects and experimentation
 
 ### GitHub Stat:
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yubii72&theme=dark&hide_border=false&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yubii72&layout=compact&langs_count=9&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Yubii72&layout=compact&langs_count=9&theme=dark_github)
 
 
 [![](https://komarev.com/ghpvc/?username=Yubii72&icon=0&color=20232A)](https://visitcount.itsvg.in)
